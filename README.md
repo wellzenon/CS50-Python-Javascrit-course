@@ -1,1 +1,1 @@
-# CS50-Python-Javascrit-course
+# hello-world
